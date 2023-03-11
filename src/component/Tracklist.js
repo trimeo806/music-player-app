@@ -20,7 +20,7 @@ const TrackList = () => {
             bgcolor: "hsla(0,0%,100%,.5)",
             borderRadius: "10px",
             color: "rgb(94, 55, 109)",
-            fontSize: "0.5em",
+            fontSize: "0.5rem",
             margin: "10px 0px",
             display: "flex",
             alignItems: "center",
@@ -31,7 +31,7 @@ const TrackList = () => {
             sx={{
               width: "100%",
               color: "rgb(94, 55, 109)",
-              fontSize: "0.5em",
+              fontSize: "0.5rem",
               padding: "10px",
               display: "flex",
               justifyContent: "space-between",
